@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboardFragment"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"/>
+
+    <item android:id="@+id/categoriesFragment"
+        android:title="Categories"
+        android:icon="@drawable/ic_baseline_category_24"/>
+
+    <item android:id="@+id/favoritesFragment"
+        android:title="Favorites"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+
+    <item android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>
