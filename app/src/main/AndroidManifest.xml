@@ -11,9 +11,11 @@
         android:theme="@style/Theme.ShopDrop" >
         <activity
             android:name=".MainActivity"
+            android:launchMode="singleTop"
             android:exported="false" />
         <activity
             android:name=".auth.AuthActivity"
+            android:launchMode="singleTop"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

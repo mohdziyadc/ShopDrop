@@ -7,10 +7,11 @@
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/activity_auth.xml" value="0.2" />
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_categories.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_dashboard.xml" value="0.4" />
-        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_favorites.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_favorites.xml" value="0.176" />
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_login.xml" value="0.264" />
-        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_profile.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_profile.xml" value="0.176" />
+        <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_profile_edit.xml" value="0.264" />
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/layout/fragment_register.xml" value="0.264" />
         <entry key="..\:/Users/ubaid/AndroidStudioProjects/ShopDrop/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23333333333333334" />
       </map>

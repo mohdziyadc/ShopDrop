@@ -16,11 +16,13 @@ class LoginFragment:Fragment(R.layout.fragment_login) {
         loginBtn.setOnClickListener {
             val intent = Intent(requireContext(), MainActivity::class.java)
             startActivity(intent)
+            activity?.finish()
 
         }
 
         registerTV.setOnClickListener{
             findNavController().navigate(R.id.action_loginFragment_to_registerFragment)
+
         }
     }
 }
